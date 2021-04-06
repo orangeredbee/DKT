@@ -9,14 +9,16 @@
 
 
 * pytorch实现
-
 * 加入GPU计算
-
 * 运行：DKT/KnowledgeTracing/evaluation/run.py
 
 
 
-DKT
+
+
+## 文档树：
+
+DKT  
 ├─KnowledgeTracing  
 │  ├─Constant  
 │  ├─data   
