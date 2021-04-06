@@ -27,10 +27,10 @@ DKT
 │        
 
 └─KTDataset  
-    ├─assist2009  
-    ├─assist2015  
-    ├─assist2017  
-    ├─kddcup2010  
-    ├─statics2011  
-    └─synthetic    
+	├─assist2009  
+	├─assist2015  
+	├─assist2017  
+	├─kddcup2010  
+	├─statics2011  
+	└─synthetic    
 
